@@ -8,6 +8,8 @@
 
   home.packages = with pkgs; [
     _1password-gui
+    nil
+    nixpkgs-fmt
     whatsapp-for-linux
   ];
 
